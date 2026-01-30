@@ -7,6 +7,7 @@ A collection of Claude Code / Antigravity skills for iOS indie developers.
 | Skill | Description |
 |-------|-------------|
 | [appicon-export](skills/appicon-export/) | Generate all iOS App Icon sizes from a 1024x1024 source image |
+| [video-downloader-skill](skills/video-downloader-skill/) | Smart media downloader. Search and download images/videos from Pexels/YouTube. |
 
 ## Installation
 
@@ -30,8 +31,14 @@ cp -r ios-indie-skills-main/skills/appicon-export /path/to/your/project/.agent/s
 
 In Claude Code / Antigravity, use natural language:
 
+**For App Icon Export:**
 ```
 Use appicon-export skill to process my icon: ~/my-icon-1024.png
+```
+
+**For Media Downloader:**
+```
+Find a video of ocean waves, about 15s
 ```
 
 ## Contributing
