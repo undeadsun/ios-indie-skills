@@ -7,7 +7,7 @@ A collection of Claude Code / Antigravity skills for iOS indie developers.
 | Skill | Description |
 |-------|-------------|
 | [appicon-export](skills/appicon-export/) | Generate all iOS App Icon sizes from a 1024x1024 source image |
-| [video-downloader-skill](skills/video-downloader-skill/) | Smart media downloader. Search and download images/videos from Pexels/YouTube. |
+| [video-generator-skill](skills/video-generator-skill/) | Smart media downloader & Video Generator. Search/download assets and scaffold Remotion videos. |
 
 ## Installation
 
